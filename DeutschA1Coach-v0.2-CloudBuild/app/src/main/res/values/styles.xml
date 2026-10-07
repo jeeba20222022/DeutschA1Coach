@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.DeutschA1Coach" parent="android:style/Theme.Material.Light.NoActionBar" />
+</resources>
